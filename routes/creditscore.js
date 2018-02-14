@@ -11,7 +11,7 @@ exports.list = function(req, res){
 
 // _CHANGE_ : Please comment the line with the DUMMY message and uncomment the one with the Welcome message
         //"MESSAGE": "DUMMY message V1"
-        "MESSAGE": "JUVE - TOTTENAM 1-0"
+        "MESSAGE": "JUVE - TOTTENAM 2-0"
 
     };
 
